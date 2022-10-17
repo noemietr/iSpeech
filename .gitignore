@@ -1,0 +1,65 @@
+Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.fif
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+# *.gz needed for gitlab webpage compression
+*.7z
+*.dmg
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.aux
+*.fdb_latexmk
+*.fls
+*.nav
+*.out
+*.snm
+*.ist
+*.eps
+*.png
+*.acn
+*.acnh
+*.brf
+*.toc
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+*.pyc
+
+# OS generated files #
+######################
+*/.DS_Store
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Directories
+#######################
+__pycache__/
+.pynb_checkpoints
+.ipynb_checkpoints/
+private/
+report/
+
+# todo's
+#######################
+todo

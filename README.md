@@ -1,5 +1,5 @@
 # iSpeech: speech and music processing with sEEG recordings
-te Rietmolen et al. bioRxiv 2022 "Speech and music recruit frequency-specific distributed and overlapping cortical networks"
+te Rietmolen et al. eLife 2024 "Speech and music recruit frequency-specific distributed and overlapping cortical networks"
 
 This GitHub provides the codes to reproduce the results and figures of the manuscript with Python.
 The conditions of our ethics approval do not permit public archiving of anonymised study data. 
